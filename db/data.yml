@@ -1,0 +1,26 @@
+
+---
+ar_internal_metadata:
+  columns:
+  - key
+  - value
+  - created_at
+  - updated_at
+  records: 
+  - - environment
+    - development
+    - 2023-01-20 03:07:42.252106000 Z
+    - 2023-01-20 03:07:42.252106000 Z
+
+---
+books:
+  columns:
+  - id
+  - title
+  - created_at
+  - updated_at
+  records: 
+  - - 1
+    - Perdido Street Station
+    - 2023-01-20 03:13:45.290784000 Z
+    - 2023-01-20 03:13:45.290784000 Z
